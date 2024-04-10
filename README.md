@@ -1,3 +1,5 @@
+大佬写的分析步骤，我就不赘述了https://www.52pojie.cn/forum.php?mod=viewthread&tid=1911970&page=1#pid50066799
+此次分析仅供学习，禁作他用
 # 知乎盐选小说批量下载
 使用的库TTFont、PIL
 ## 主要步骤：识别盐选反爬为字体反爬，通过使用 ddddocr 得到字体映射字典，将爬取的文本进行替换，得到初始文本
