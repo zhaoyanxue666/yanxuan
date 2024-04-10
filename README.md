@@ -8,6 +8,10 @@ TTFont：将知乎的自定义字体反爬解析，知乎的自定义字体在ht
 
 <img width="466" alt="image" src="https://github.com/zhaoyanxue666/-/assets/39113888/b67beb7b-ca9c-4877-8866-15b276b121cf">
 
+# 使用方法
+填写 cookies:
+cookies_raw = '这里输入你的 cookies' 
+firstsession_url = '这里要输入严选小说的第一节链接'
 
 # 关键代码函数recognize_font、、replace_string_matches
 recognize_font主要功能：解码 base64 字体文件，通过 ddddocr 生成映射字典
