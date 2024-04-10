@@ -16,3 +16,6 @@ replace_string_matches 对已经保存的乱码文字通过字典进行还原
 
 
 
+# 感谢吾爱破解anchovy126大佬修改
+# Q 群210909794
+有 chatgptplus 合租
