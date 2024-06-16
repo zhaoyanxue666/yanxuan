@@ -1,6 +1,6 @@
-大佬写的分析步骤，我就不赘述了https://www.52pojie.cn/forum.php?mod=viewthread&tid=1911970&page=1#pid50066799
+
 此次分析仅供学习，禁作他用
-# 知乎盐选小说批量下载
+# 知乎盐选小说批量下载 百分百还原
 使用的库TTFont、PIL
 PIL的包要 10 以下，建议 9.5.0
 ## 主要步骤：识别盐选反爬为字体反爬，通过使用 ddddocr 得到字体映射字典，将爬取的文本进行替换，得到初始文本
@@ -23,7 +23,7 @@ replace_string_matches 对已经保存的乱码文字通过字典进行还原
 
 
 
-# 感谢吾爱破解anchovy126大佬修改
+# 感谢anchovy126大佬修改
 # Q 群210909794
 有 chatgptplus 合租
 
