@@ -35,7 +35,7 @@ get_firstsession 函数负责抓取和处理每一节的网页内容：
 初始化 FontDecoder 实例。
 循环抓取每一节内容，直到没有下一节为止。
 
-<img width="466" alt="image" src="https://github.com/zhaoyanxue666/-/assets/39113888/b67beb7b-ca9c-4877-8866-15b276b121cf">
+![image](https://github.com/user-attachments/assets/e1e453e9-6a29-4fa4-8ef1-afabd0fa6ef8)
 
 # 使用方法
 填写 cookies:
